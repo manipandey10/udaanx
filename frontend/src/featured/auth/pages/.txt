@@ -1,0 +1,10 @@
+react me 4 layers architecture hota hai 
+
+1.UI
+2.HOOK
+3.STATE
+4.API
+
+
+
+
